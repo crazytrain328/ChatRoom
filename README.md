@@ -1,7 +1,7 @@
 # ChatRoom
 <hr>
-Django-based Chatroom With Custom Models And Authentication System.
-
+<h3>Django-based Chatroom With Custom Models And Authentication System.</h3>
+<br>
 
 
 ###To Run this Project 

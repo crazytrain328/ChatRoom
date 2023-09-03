@@ -1,0 +1,24 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<div>
+  <form method="POST" action="">
+      {% csrf_token %}
+      {{form.as_p}}
+      <input type = 'submit'  value = "Submit" />
+  </form>
+</div>
+<br>
+
+<div>
+  <a href="{% url 'delete-all-rooms' %} "> Delete All Rooms</a>
+</div>
+<br>
+
+<div> 
+  <a href="{% url 'create-new-topic' %}"> Create New Topic </a>
+
+</div>
+
+{% endblock content %}

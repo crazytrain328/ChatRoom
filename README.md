@@ -1,5 +1,4 @@
 # ChatRoom
-<hr>
 <h3>Django-based Chatroom With Custom Models And Authentication System.</h3>
 <br>
 

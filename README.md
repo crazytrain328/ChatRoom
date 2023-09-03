@@ -29,7 +29,7 @@ Django-based Chatroom With Custom Models And Authentication System.
    ```bash
       cd studybudd
    ```  
-8) Activate the Virtual Environment.
+8) Activate the Virtual Environment.<br>
    i) Windows
       ```bash
          env\scripts\activate
